@@ -1,0 +1,8 @@
+project_id = "nsjgmqwblfsfleiuofun"
+
+[api]
+enabled = true
+port = 54321
+
+[functions.generate-quiz]
+verify_jwt = false
